@@ -9,13 +9,6 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 
-
-
-
-
-
-
-
 public class GetConnection {
     public static Connection getConnection() {
         Connection connection = null;
